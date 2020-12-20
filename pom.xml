@@ -16,8 +16,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>io.rest-assured</groupId>
-            <artifactId>rest-assured</artifactId>
+            <groupId>REST ASSURED</groupId>
+            <artifactId>REST ASSURED</artifactId>
             <version>4.3.3</version>
             <scope>test</scope>
         </dependency>
