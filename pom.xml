@@ -47,5 +47,12 @@
             <version>2.2.6</version>
         </dependency>
     </dependencies>
+	
+	        <dependency>
+            <groupId>DUPA</groupId>
+            <artifactId>DUPA1</artifactId>
+            <version>2.2.6</version>
+        </dependency>
+    </dependencies>
 
 </project>
