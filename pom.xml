@@ -49,15 +49,12 @@
     </dependencies>
 	
 	        <dependency>
-<<<<<<< HEAD
             <groupId>DUPA</groupId>
             <artifactId>DUPA1</artifactId>
             <version>2.2.6</version>
-=======
             <groupId>xxx</groupId>
             <artifactId>yyy</artifactId>
             <version>2.2.1</version>
->>>>>>> b06cc33105684b3a5b6b29e2f1836c320858bcde
         </dependency>
     </dependencies>
 
